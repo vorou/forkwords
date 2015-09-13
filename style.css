@@ -1,0 +1,30 @@
+body {
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 72px;
+}
+
+.motto {
+  font-size: 14px;
+}
+
+div.words {
+  margin-top: 20px;
+}
+
+.words-row {
+  margin-bottom: 20px;
+}
+
+p.words {
+  font-size: 38px;
+}
+
+img {
+  float: left;
+  clear: left;
+  margin-right: 20px;
+}
